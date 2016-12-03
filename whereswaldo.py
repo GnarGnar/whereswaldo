@@ -1,12 +1,12 @@
 import numpy as np
 from PIL import Image, ImageDraw
 
-waldo1 = Image.open("swamp_waldo.jpg")
-waldo2 = Image.open("waldo_dinosaurs.jpg")
-waldo3 = Image.open("waldo_store.jpg")
-waldo4 = Image.open("waldo_streets.jpg")
-waldo5 = Image.open("waldo_wizards.jpg")
-waldo6 = Image.open("maps_troy.jpg")
+waldo1 = Image.open("swamp_waldo.png")
+waldo2 = Image.open("waldo_dinosaurs.png")
+waldo3 = Image.open("waldo_toys.png")
+waldo4 = Image.open("waldo_spain.png")
+waldo5 = Image.open("waldo_space.png")
+waldo6 = Image.open("waldo_troy.png")
 
 waldo1.load()
 waldo2.load()
